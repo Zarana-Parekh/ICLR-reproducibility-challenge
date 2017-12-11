@@ -3,9 +3,9 @@
 Set up a virtual environment:  
 `pip install virtualenv`
 
-`virtualenv basic`
+`virtualenv dep_parsing`
 
-`source basic/bin/activate`
+`source dep_parsing/bin/activate`
 
 The original implementation can be found at: https://github.com/chantera/biaffineparser
 
