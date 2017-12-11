@@ -1,6 +1,8 @@
 # ICLR-reproducibility-challenge
 Code modifications for ICLR Reproducibility Challenge
 
+We are trying to replicate the results given in : https://openreview.net/pdf?id=HJOQ7MgAW as part of the ICLR Reproducibility Challenge.
+
 # Update the code
 `mv rnn_cell_impl.py /usr/local/lib/python3.6/site-packages/tensorflow/python/ops/`
 
