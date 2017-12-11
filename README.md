@@ -12,19 +12,19 @@ Code modifications for ICLR Reproducibility Challenge
 There are three different experiments:
 Some of the experiments require different Tensorflow versions so it is suggested that each experiment be run in a separate virutal environment in order to avoid having version issues.
 
-* Language Modeling:
+* Language Modeling:  
 The original implementation can be found at: https://github.com/tensorflow/models/tree/master/tutorials/rnn/ptb
 
 We referred the GRU implementation from: https://github.com/cydonia99/rnn_variants_tensorflow 
 
 This code can be run with Python 3 and Tensorflow v 1.4
 
-* Question Answering:
+* Question Answering:  
 The original implementation can be found at: https://github.com/allenai/bi-att-flow
 
 This code requires Tensorflow v 1.1 or higher on the dev branch, so `git checkout dev` before running the code. It can be run with Python 3.
 
-* Dependency Parsing:
+* Dependency Parsing:  
 The original implementation can be found at: https://github.com/chantera/biaffineparser
 
 The code can be run with Python 3.
