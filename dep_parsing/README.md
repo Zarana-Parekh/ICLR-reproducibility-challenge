@@ -14,3 +14,5 @@ The code can be run with Python 3. It requires chainer, numpy, and teras.
 `git clone https://github.com/chantera/biaffineparser`
 
 Other dependencies will be automatically installed based on the instructions given in the repository.
+
+Link to results: https://drive.google.com/drive/folders/15nPc8F7i0kBHupgPjcs45SEba71vr1KF?usp=sharing
