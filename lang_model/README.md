@@ -3,9 +3,9 @@
 Set up a virtual environment:  
 `pip install virtualenv`
 
-`virtualenv basic`
+`virtualenv lang_model`
 
-`source basic/bin/activate`
+`source lang_model/bin/activate`
 
 The original implementation can be found at: https://github.com/tensorflow/models/tree/master/tutorials/rnn/ptb
 
