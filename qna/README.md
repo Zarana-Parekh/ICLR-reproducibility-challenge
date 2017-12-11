@@ -3,9 +3,9 @@
 Set up a virtual environment:  
 `pip install virtualenv`
 
-`virtualenv basic`
+`virtualenv qna`
 
-`source basic/bin/activate`
+`source qna/bin/activate`
 
 The original implementation can be found at: https://github.com/allenai/bi-att-flow 
 
