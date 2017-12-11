@@ -14,3 +14,5 @@ This code requires Tensorflow v 1.1 or higher on the dev branch, so `git checkou
 `git clone https://github.com/allenai/bi-att-flow`
 
 Other dependencies will be automatically installed based on the instructions given in the repository.
+
+Link to results: https://drive.google.com/drive/folders/1QW4tFFmnYNry5g0Seqs2PrVrfNAmRXkK?usp=sharing
